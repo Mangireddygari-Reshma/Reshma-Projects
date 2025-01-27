@@ -1,0 +1,45 @@
+body {
+  text-align: center;
+  background-color: #cc6699;
+}
+body header {
+  font-size: 35px;
+  color: #f5e0ea;
+  font-family: cursive;
+  margin: 10px;
+  padding: 0px;
+}
+body main {
+  text-align: center;
+}
+body main p {
+  font-size: 25px;
+  color: beige;
+  margin: 10px;
+}
+body main img {
+  width: 55vw;
+  height: 40vh;
+  margin: 10px;
+}
+body main article h3 {
+  color: beige;
+  margin: 10px;
+}
+body main article p {
+  font-size: 25px;
+  color: beige;
+  margin: 10px;
+}
+body main button {
+  width: 200px;
+  height: 40px;
+  margin: 10px;
+  padding: 2px;
+  color: #cc6699;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+  font-family: cursive;
+  background-color: #f6f1f6;
+}/*# sourceMappingURL=task8.css.map */

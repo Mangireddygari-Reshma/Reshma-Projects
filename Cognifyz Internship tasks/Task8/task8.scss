@@ -1,0 +1,62 @@
+$font-size:35px;
+$background-color:#cc6699;
+$font-family: cursive;
+$color:beige;
+
+
+body{
+    text-align: center;
+    background-color: $background-color;
+    header{
+        font-size:$font-size ;
+        color: #f5e0ea;
+        font-family:$font-family;
+        margin:10px;
+        padding:0px;
+    }
+
+    main{
+        text-align: center;
+        p{
+            font-size:25px;
+            color:$color ;
+            margin:10px;
+        }
+
+        img{
+            width:55vw;
+            height:40vh;
+            margin:10px;
+        }
+
+        article{
+
+            h3{
+                color:$color;
+                margin:10px;
+            }
+
+            p{
+                font-size:25px;
+                color: $color;
+                margin:10px;
+            }
+        }
+        
+        button{
+            width:200px;
+            height:40px;
+            margin:10px;
+            padding:2px;
+            color:$background-color;
+            border:none;
+            border-radius:10px;
+            font-size: 16px;
+            font-family: cursive;
+            background-color: #f6f1f6;
+        }
+    }
+
+}
+
+
